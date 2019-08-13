@@ -1,0 +1,12 @@
+C:\Users\damia\source\repos\MonogoTest\MonogoTest\bin\Debug\MonogoTest.exe.config
+C:\Users\damia\source\repos\MonogoTest\MonogoTest\bin\Debug\MonogoTest.exe
+C:\Users\damia\source\repos\MonogoTest\MonogoTest\bin\Debug\MonogoTest.pdb
+C:\Users\damia\source\repos\MonogoTest\MonogoTest\obj\Debug\MonogoTest.csprojAssemblyReference.cache
+C:\Users\damia\source\repos\MonogoTest\MonogoTest\obj\Debug\MonogoTest.Form1.resources
+C:\Users\damia\source\repos\MonogoTest\MonogoTest\obj\Debug\MonogoTest.Properties.Resources.resources
+C:\Users\damia\source\repos\MonogoTest\MonogoTest\obj\Debug\MonogoTest.csproj.GenerateResource.cache
+C:\Users\damia\source\repos\MonogoTest\MonogoTest\obj\Debug\MonogoTest.csproj.CoreCompileInputs.cache
+C:\Users\damia\source\repos\MonogoTest\MonogoTest\obj\Debug\MonogoTest.exe
+C:\Users\damia\source\repos\MonogoTest\MonogoTest\obj\Debug\MonogoTest.pdb
+C:\Users\damia\source\repos\MonogoTest\MonogoTest\obj\Debug\MonogoTest.ConnSetup.resources
+C:\Users\damia\source\repos\MonogoTest\MonogoTest\obj\Debug\MonogoTest.Edit.resources
